@@ -1,9 +1,5 @@
-pyqt_test.py
-simple.cpp
-*.so
 *.o
 .qmake.stash
 moc_*
 /.vscode
 /__pycache__
-/previous
